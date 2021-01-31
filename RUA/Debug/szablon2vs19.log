@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\RobotUnicornAttack\template-project-2\main.cpp(44,2): warning C4091: 'typedef ': ignored on left of 'sprite' when no variable is declared
+D:\RobotUnicornAttack\template-project-2\main.cpp(190,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\RobotUnicornAttack\template-project-2\main.cpp(215,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\RobotUnicornAttack\template-project-2\main.cpp(245,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\RobotUnicornAttack\template-project-2\main.cpp(593,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\RobotUnicornAttack\template-project-2\main.cpp(599,110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\RobotUnicornAttack\template-project-2\main.cpp(738,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\RobotUnicornAttack\template-project-2\main.cpp(792,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\RobotUnicornAttack\template-project-2\main.cpp(392,38): warning C4101: 'tk1': unreferenced local variable
+D:\RobotUnicornAttack\template-project-2\main.cpp(392,43): warning C4101: 'tk2': unreferenced local variable
+  szablon2vs19.vcxproj -> D:\RobotUnicornAttack\template-project-2\Debug\szablon2vs19.exe
